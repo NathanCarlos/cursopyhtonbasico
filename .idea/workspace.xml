@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81be4e1e-212f-45ad-b410-91ed893b6944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula13 - API-lista-de-filmes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula-14-expressoes-regulares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aula13 - API-lista-de-filmes.py">
+        <entry file="file://$PROJECT_DIR$/aula-14-expressoes-regulares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="221">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -59,6 +60,7 @@
         <option value="$PROJECT_DIR$/aula-11-tratamento-de-erros.py" />
         <option value="$PROJECT_DIR$/aula-12-requisicoes-web.py" />
         <option value="$PROJECT_DIR$/aula13 - API-lista-de-filmes.py" />
+        <option value="$PROJECT_DIR$/aula-14-expressoes-regulares.py" />
       </list>
     </option>
   </component>
@@ -103,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula13 - API-lista-de-filmes">
+  <component name="RunManager" selected="Python.aula-14-expressoes-regulares">
     <configuration name="aula-11-tratamento-de-erros" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="maratonaDataScience" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,6 +140,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-12-requisicoes-web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula-14-expressoes-regulares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="maratonaDataScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-14-expressoes-regulares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,34 +211,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula8-passagem-de-argumentos" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="maratonaDataScience" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8-passagem-de-argumentos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula-14-expressoes-regulares" />
         <item itemvalue="Python.aula13 - API-lista-de-filmes" />
         <item itemvalue="Python.aula-12-requisicoes-web" />
         <item itemvalue="Python.aula-11-tratamento-de-erros" />
         <item itemvalue="Python.aula10-entrada-saida-arquivos" />
-        <item itemvalue="Python.aula8-passagem-de-argumentos" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +392,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula-14-expressoes-regulares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>

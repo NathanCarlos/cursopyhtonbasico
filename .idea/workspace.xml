@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81be4e1e-212f-45ad-b410-91ed893b6944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arquivo2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula-11-tratamento-de-erros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyhtonpoo/arquivo2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula-12-requisicoes-web.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aula-11-tratamento-de-erros.py">
+        <entry file="file://$PROJECT_DIR$/aula-12-requisicoes-web.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            <state relative-caret-position="204">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -60,6 +58,7 @@
         <option value="$PROJECT_DIR$/arquivo.txt" />
         <option value="$PROJECT_DIR$/aula10-entrada-saida-arquivos.py" />
         <option value="$PROJECT_DIR$/aula-11-tratamento-de-erros.py" />
+        <option value="$PROJECT_DIR$/aula-12-requisicoes-web.py" />
       </list>
     </option>
   </component>
@@ -104,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula-11-tratamento-de-erros">
+  <component name="RunManager" selected="Python.aula-12-requisicoes-web">
     <configuration name="aula-11-tratamento-de-erros" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="maratonaDataScience" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,6 +125,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula-12-requisicoes-web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="maratonaDataScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula-12-requisicoes-web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="aula10-entrada-saida-arquivos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="maratonaDataScience" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,27 +159,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula10-entrada-saida-arquivos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula6-estrutura-de-dados" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="maratonaDataScience" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula6-estrutura-de-dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula-12-requisicoes-web" />
         <item itemvalue="Python.aula-11-tratamento-de-erros" />
         <item itemvalue="Python.aula10-entrada-saida-arquivos" />
         <item itemvalue="Python.aula8-passagem-de-argumentos" />
         <item itemvalue="Python.aula7-funcoes-metodos" />
-        <item itemvalue="Python.aula6-estrutura-de-dados" />
       </list>
     </recent_temporary>
   </component>
@@ -377,6 +376,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula-12-requisicoes-web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>

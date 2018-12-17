@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81be4e1e-212f-45ad-b410-91ed893b6944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicio-solyd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula4-string-e-listas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores-logicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/operadores-logicos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercicio-solyd.py">
+        <entry file="file://$PROJECT_DIR$/aula4-string-e-listas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state relative-caret-position="348">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -46,6 +45,7 @@
         <option value="$PROJECT_DIR$/entrada-saida.py" />
         <option value="$PROJECT_DIR$/operadores-logicos.py" />
         <option value="$PROJECT_DIR$/exercicio-solyd.py" />
+        <option value="$PROJECT_DIR$/aula4-string-e-listas.py" />
       </list>
     </option>
   </component>
@@ -89,7 +89,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio-solyd">
+  <component name="RunManager" selected="Python.aula4-string-e-listas">
+    <configuration name="aula4-string-e-listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="maratonaDataScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4-string-e-listas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="entrada-saida" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="maratonaDataScience" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,27 +145,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-solyd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercicio2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="maratonaDataScience" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula4-string-e-listas" />
         <item itemvalue="Python.exercicio-solyd" />
         <item itemvalue="Python.operadores-logicos" />
         <item itemvalue="Python.entrada-saida" />
         <item itemvalue="Python.exercicio3" />
-        <item itemvalue="Python.exercicio2" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
     <entry file="file://$PROJECT_DIR$/exercicio-solyd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="53" lean-forward="true" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula4-string-e-listas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
         </state>
       </provider>
     </entry>

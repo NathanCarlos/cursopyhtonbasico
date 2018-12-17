@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81be4e1e-212f-45ad-b410-91ed893b6944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula6-estrutura-de-dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula7-funcoes-metodos.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aula6-estrutura-de-dados.py">
+        <entry file="file://$PROJECT_DIR$/aula7-funcoes-metodos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+            <state relative-caret-position="85">
+              <caret line="5" column="83" lean-forward="true" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -51,6 +51,7 @@
         <option value="$PROJECT_DIR$/aula5-estruturas-de-laco.py" />
         <option value="$PROJECT_DIR$/exercicio-aula-5.py" />
         <option value="$PROJECT_DIR$/aula6-estrutura-de-dados.py" />
+        <option value="$PROJECT_DIR$/aula7-funcoes-metodos.py" />
       </list>
     </option>
   </component>
@@ -94,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula6-estrutura-de-dados">
+  <component name="RunManager" selected="Python.aula7-funcoes-metodos">
     <configuration name="aula4-string-e-listas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="maratonaDataScience" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +159,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula7-funcoes-metodos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="maratonaDataScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7-funcoes-metodos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exercicio-aula-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="maratonaDataScience" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,34 +201,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicio-solyd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="maratonaDataScience" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicio-solyd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula7-funcoes-metodos" />
         <item itemvalue="Python.aula6-estrutura-de-dados" />
         <item itemvalue="Python.exercicio-aula-5" />
         <item itemvalue="Python.aula5-estruturas-de-laco" />
         <item itemvalue="Python.aula4-string-e-listas" />
-        <item itemvalue="Python.exercicio-solyd" />
       </list>
     </recent_temporary>
   </component>
@@ -316,6 +317,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula7-funcoes-metodos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="83" lean-forward="true" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
         </state>
       </provider>
     </entry>
